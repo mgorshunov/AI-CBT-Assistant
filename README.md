@@ -123,3 +123,7 @@ Small prompt changes can substantially alter response quality, conversational to
 
 Reliable conversational experiences depend heavily on memory management, persistence, workflow orchestration, monitoring, and operational safeguards in addition to the underlying model.
 
+# Disclaimer
+This project is intended for research, educational, and software development purposes only. It is not a medical device, mental health service, or substitute for professional medical or psychological care.
+The research, views, and opinions expressed on this website are strictly my own. They do not necessarily reflect the official policy, position, or regulatory perspectives of my current or previous employers.
+
