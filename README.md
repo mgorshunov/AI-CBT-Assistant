@@ -29,6 +29,13 @@ Core Components:
 
 The system stores user interactions, maintains conversational state, and automatically summarizes prior exchanges when conversation history exceeds predefined thresholds.
 
+# Evaluation
+
+- Tested conversation coherence across long interactions
+- Evaluated summarization quality after context compression
+- Monitored transcription accuracy for voice inputs
+- Iteratively refined prompts to improve response consistency
+
 # Features
 
 ### Conversational AI
